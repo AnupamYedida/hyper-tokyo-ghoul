@@ -1,0 +1,38 @@
+{
+  "name": "hyper-tokyo-ghoul",
+  "version": "1.0",
+  "description": "Various characters from Tokyo Ghoul",
+  "license": "MIT",
+  "repository": "AnupamYedida/hyper-tokyo-ghoul",
+  "homepage": "https://github.com/AnupamYedida/hyper-tokyo-ghoul",
+  "author": {
+    "name": "Anupam Yedida",
+    "email": "anupamy@gmail.com"
+  },
+
+  "files": [
+    "index.js",
+    "backgrounds",
+    "themes"
+  ],
+  "keywords": [
+    "hyper",
+    "anime",
+    "hyper-tokyo-ghoul",
+    "hyper-theme",
+    "tokyo-ghoul",
+    "theme"
+  ],
+  
+  "dependencies": {
+    "color": "^3.0.0",
+    "js-yaml": "^3.10.0"
+  },
+  "devDependencies": {
+    "xo": "*",
+    "yaml-lint": "^1.0.0"
+  },
+  "xo": {
+    "space": 2
+  }
+}

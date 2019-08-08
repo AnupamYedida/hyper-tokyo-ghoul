@@ -1,0 +1,125 @@
+##
+# Tokyo Ghoul Characters Color Schemes
+##
+
+characters:
+
+  # touka2  Color-scheme
+  touka2:
+    unibody: '#E12F3A'
+    header: '#1D1D1D'
+    tabs: '#2D312E'
+    font: '#FEFEFE'
+    black: '#000000'
+    red: '#FDE3A7'
+    green: '#4AE08C'
+    yellow: '#F1F227'
+    blue: '#86E2D5'
+    magenta: '#FF9ADB'
+    cyan: '#E0FFFF'
+    white: '#C8F7C5'
+    lightBlack: '#D3D3D3'
+    lightRed: '#FDE3A7'
+    lightGreen: '#4AE08C'
+    lightYellow: '#F1F227'
+    lightBlue: '#86E2D5'
+    lightMagenta: '#FF9ADB'
+    lightCyan: '#E0FFFF'
+    lightWhite: '#FFFFFF'
+
+  # Touka1  Color-scheme
+  touka1:
+    unibody: '#798493'
+    header: '#303030'
+    tabs: '#E2E4E7'
+    font: '#41007D'
+    black: '#050709'
+    red: '#B22222'
+    green: '#8ADE00'
+    yellow: '#CFC45D'
+    blue: '#2B00DE'
+    magenta: '#FFA7A4'
+    cyan: '#36C4C4'
+    white: '#F2F1EF'
+    lightBlack: '#3E3E3E'
+    lightRed: '#B22222'
+    lightGreen: '#8ADE00'
+    lightYellow: '#CFC45D'
+    lightBlue: '#2B00DE'
+    lightMagenta: '#FFA7A4'
+    lightCyan: '#36C4C4'
+    lightWhite: '#E3E3E3'
+
+# sasaki Color-scheme
+  sasaki:
+        unibody: '#003157'
+        header: '#4B3A2E'
+        tabs: '#D29E76'
+        font: '#F2F1EF'
+        black: '#000000'
+        red: '#F9BF3B'
+        green: '#00CF80'
+        yellow: '#F1F227'
+        blue: '#00BFFF'
+        magenta: '#DDA0DD'
+        cyan: '#00E0E0'
+        white: '#F2F1EF'
+        lightBlack: '#7E7E7E'
+        lightRed: '#F9BF3B'
+        lightGreen: '#00CF80'
+        lightYellow: '#F1F227'
+        lightBlue: '#00BFFF'
+        lightMagenta: '#DDA0DD'
+        lightCyan: '#00E0E0'
+        lightWhite: '#FFFFFF'
+
+# kaneki-kagune Color-scheme
+  kaneki-kagune:
+    unibody: '#003157'
+    header: '#4B3A2E'
+    tabs: '#D29E76'
+    font: '#F2F1EF'
+    black: '#000000'
+    red: '#F9BF3B'
+    green: '#00CF80'
+    yellow: '#F1F227'
+    blue: '#00BFFF'
+    magenta: '#DDA0DD'
+    cyan: '#00E0E0'
+    white: '#F2F1EF'
+    lightBlack: '#7E7E7E'
+    lightRed: '#F9BF3B'
+    lightGreen: '#00CF80'
+    lightYellow: '#F1F227'
+    lightBlue: '#00BFFF'
+    lightMagenta: '#DDA0DD'
+    lightCyan: '#00E0E0'
+    lightWhite: '#FFFFFF'
+
+# Kaneki Color-scheme
+  kaneki:
+    unibody: '#003157'
+    header: '#4B3A2E'
+    tabs: '#D29E76'
+    font: '#F2F1EF'
+    black: '#000000'
+    red: '#F9BF3B'
+    green: '#00CF80'
+    yellow: '#F1F227'
+    blue: '#00BFFF'
+    magenta: '#DDA0DD'
+    cyan: '#00E0E0'
+    white: '#F2F1EF'
+    lightBlack: '#7E7E7E'
+    lightRed: '#F9BF3B'
+    lightGreen: '#00CF80'
+    lightYellow: '#F1F227'
+    lightBlue: '#00BFFF'
+    lightMagenta: '#DDA0DD'
+    lightCyan: '#00E0E0'
+    lightWhite: '#FFFFFF'
+
+
+
+
+  
